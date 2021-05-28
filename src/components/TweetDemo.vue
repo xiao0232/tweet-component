@@ -10,7 +10,7 @@ import { defineComponent, ref } from 'vue'
 import TweetCard from './TweetCard.vue'
 
 export default defineComponent({
-  name: 'HelloWorld',
+  name: 'TweetDemo',
   components: {
     TweetCard
   },
